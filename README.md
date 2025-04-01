@@ -6,7 +6,7 @@
 
 #### Teach stack: 
 - React for Frontend
-- Node.js for backend (manually insert mock data for stable demo; for real-time data, uncomment/replace with 3rd party EXCHANGE_RATE_API)
+- Node.js, Express for backend (manually insert mock data for stable demo; for real-time data, uncomment/replace with 3rd party EXCHANGE_RATE_API)
 - Rate limiter is added to prevent user abuse and protect backend resources 
 - Redis cache is implemented to improve response speed and to reduces loads on the server
 - Open AI and langchain npm packages are installed, for future AI feature enhancements
